@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abdurrahman
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning front-end development
--You can search about @abd.frot-end on instagram
+-    You can search about @abd.front-end on instagram
 -
 
 <!---
